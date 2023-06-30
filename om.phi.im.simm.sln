@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "om.phi.im.simm", "om.phi.im.simm\om.phi.im.simm.csproj", "{A80570D8-D046-4009-B568-F7A4E19D6AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80570D8-D046-4009-B568-F7A4E19D6AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80570D8-D046-4009-B568-F7A4E19D6AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80570D8-D046-4009-B568-F7A4E19D6AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80570D8-D046-4009-B568-F7A4E19D6AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F088A7A9-913E-4B5C-8C45-7E82999997F8}
+	EndGlobalSection
+EndGlobal
